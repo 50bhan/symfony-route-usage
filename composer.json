@@ -1,5 +1,5 @@
 {
-    "name": "symplify/symfony-route-usage",
+    "name": "50bhan/symfony-route-usage",
     "description": "Detect used and unused Symfony routes",
     "type": "symfony-bundle",
     "license": "MIT",
